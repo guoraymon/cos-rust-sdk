@@ -1,0 +1,13 @@
+[package]
+name = "cos-rust-sdk"
+version = "0.1.0"
+authors = ["raymon <raymon.guo@outlook.com>"]
+edition = "2018"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+chrono = "0.4"
+rust-crypto = "^0.2"
+hex = "0.4"
+dotenv = "0.15.0"
